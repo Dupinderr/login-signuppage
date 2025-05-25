@@ -1,2 +1,2 @@
 # login-signuppage
-I made this last summer and think its cool 😈
+It has music, a background video and slider too 
